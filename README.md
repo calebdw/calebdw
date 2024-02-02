@@ -7,7 +7,7 @@
 <p align="center">
   <img width="48%" align="left" src="https://github-contributor-stats.vercel.app/api?username=calebdw&custom_title=Contributor%20Stats&theme=tokyonight&limit=10" alt="Contributor Stats" />
   <p>
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=calebdw&custom_title=General%20Stats&show_icons=true&number_format=short&theme=tokyonight" alt="General Stats" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=calebdw&custom_title=General%20Stats&show_icons=true&number_format=short&rank_icon=percentile&theme=tokyonight" alt="General Stats" />
     <br />
     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=calebdw&theme=tokyonight" alt="Streak Stats" />
   </p>
