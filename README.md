@@ -1,6 +1,7 @@
 # 🤠 Howdy Y'all
 
 ![Profile Views](https://komarev.com/ghpvc/?username=calebdw)
+[![Laravel Contributor](https://laravel-badge.peterfox.me/contributor/calebdw)](https://laravel-badge.peterfox.me/contributor/calebdw/contributions)
 
 ## 🚀 Stats
 
