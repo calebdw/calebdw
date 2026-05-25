@@ -8,12 +8,12 @@
 <p align="center">
   <img width="48%" align="left" src="https://github-contributor-stats.vercel.app/api?username=calebdw&custom_title=Contributor%20Stats&theme=tokyonight&hide_contributor_rank=false&order_by=contributions&limit=9" alt="Contributor Stats" />
   <p>
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=calebdw&custom_title=General%20Stats&show_icons=true&number_format=short&rank_icon=percentile&theme=tokyonight" alt="General Stats" />
+    <img width="48%" src="https://github-readme-stats-fast.vercel.app/api?username=calebdw&custom_title=General%20Stats&show_icons=true&number_format=short&rank_icon=percentile&theme=tokyonight" alt="General Stats" />
     <br />
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=calebdw&theme=tokyonight" alt="Streak Stats" />
+    <img width="48%" src="https://github-readme-stats-fast.vercel.app/api/streak?username=calebdw&theme=tokyonight" alt="Streak Stats" />
   </p>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=calebdw&langs_count=10&custom_title=Top%20Languages&layout=compact&theme=tokyonight" alt="Top Languages" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=calebdw&langs_count=8&custom_title=Top%20Languages&layout=compact&theme=tokyonight" alt="Top Languages" />
   </p>
 </p>
 
